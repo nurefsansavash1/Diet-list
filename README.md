@@ -6,5 +6,5 @@
 
 *Aşağıdaki linklerden proje takımının GitHub hesaplarına ulaşabilirsiniz:*
 
-# [GitHub_Nesibe](https://github.com/nesibecitakk)
-# [GitHub_Nurefşan](https://github.com/nurefsansavash1)
+## [GitHub_Nesibe](https://github.com/nesibecitakk)
+## [GitHub_Nurefşan](https://github.com/nurefsansavash1)
